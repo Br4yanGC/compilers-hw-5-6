@@ -4,7 +4,7 @@
 
 # Test Hw6
 ## Código
-```lex
+```c
 int edad;
 main() {
   puts("Ingrese edad: ")
