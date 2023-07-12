@@ -66,5 +66,6 @@ main() {
 }
 ```
 ### Output
+Código en tres direcciones
 <img src="output.png"  width="65%">
 
