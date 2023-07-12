@@ -23,5 +23,5 @@ main() {
 }
 ```
 ## Output
-
+<img src="output.png"  width="65%">
 
